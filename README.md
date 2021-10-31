@@ -1,1 +1,5 @@
 # ECE444-F2021-Lab6
+
+Activity 3 - What are the pros and cons of TDD?
+
+The concept of TDD is counterintuitive in the sense where tests are written before the code. There are a few advantages to this approach. Since small tests are written each time, it ensures for more modularity in the code, and problems can be broken down in steps. Due to this, the codebase is easier to maintain and refactor if necessary. Collaboration is also among a team, as any bugs are easier to detect depending on which where revisions were made. However, this technique is not suitable for developers looking to start a project off fast, and the quantity of tests written may not necessarily reflect their quality. Though in the long run, more time is saved and technical debt can be reduced since conflicts are resolved sooner. It is important to note that some developers may also have a hard time initially to adapt to this method. Teams must also ensure that every member is keeping up with the maintenance regularly. 
